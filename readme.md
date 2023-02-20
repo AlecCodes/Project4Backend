@@ -8,7 +8,7 @@ By Alec Hannaford
 - A data dashboard with analytics and data visualisation.
 
 
-#Stack
+# Stack
 |   Tech used    | Description |
 | ----------- | ----------- |
 | Database   | bit.io        |
@@ -16,7 +16,7 @@ By Alec Hannaford
 | Frontend   | React        |
 | Deployment   | Netlify        |
 
-#User Stories and Possibile features
+# User Stories and Possibile features
 -I can categorize my different runs, and select one from a template.
 -I can see the average time for each run.
 -Runs are categorized by location and distance.
