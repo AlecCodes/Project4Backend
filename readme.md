@@ -16,7 +16,22 @@ By Alec Hannaford
 | Frontend   | React        |
 | Deployment   | Netlify        |
 
+# API
+Backend Routes
+- Route 1: CRUD operations
+- Route 2: Analytics & Aggregates
+
+# Frontend
+
+React app routes
+- Create Page
+- Edit Page
+- Run Page (displays data for run category)
+- Show Page (displays data for individual run)
+- Home Page (displays analytics)
+
 # User Stories and Possibile features
--I can categorize my different runs, and select one from a template.
--I can see the average time for each run.
--Runs are categorized by location and distance.
+- I can categorize my different runs, and select one from a template.
+- I can see the average time for each run.
+- Runs are categorized by location and distance.
+- I have 2 routers on by backend, one for standard CRUD operations for runs (sends runtimes in minutes, which may be converted into hrs/mins/secs in the fronted), and one that returns aggregates, averages, analyitics, etc... 
