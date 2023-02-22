@@ -2,6 +2,6 @@
 
 set -o errexit
 
-pip install -r requirements.txt
+pip install -r dependencies.txt
 
 python manage.py migrate
